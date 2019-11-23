@@ -1,2 +1,4 @@
 # hello-world
-2**4
+a=10
+a=a+a
+type(a)
