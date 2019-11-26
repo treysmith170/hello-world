@@ -1,0 +1,1 @@
+"Python rule{}!".format("s")
